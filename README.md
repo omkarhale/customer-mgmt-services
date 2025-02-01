@@ -1,10 +1,10 @@
-#REST API Project
+# REST API Project
 
-#Overview
+# Overview
 
 This project contains 15+ REST APIs built using Spring Boot. The APIs provide various functionalities and follow best practices for RESTful services.
 
-##Features
+## Features
 
 Developed with Spring Boot
 
@@ -24,14 +24,14 @@ Maven
 
 Postman (for testing API endpoints)
 
-##Installation
+## Installation
 
 Clone the repository
 
 git clone <https://github.com/omkarhale/customer-mgmt-services.git>
 cd <customer-mgmt-services>
 
-#Build the project
+# Build the project
 
 mvn clean install
 
@@ -39,7 +39,7 @@ Run the application
 
 mvn spring-boot:run
 
-##mvn package
+## mvn package
 java -jar target/<your-jar-file>.jar
 
 License
